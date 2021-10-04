@@ -7,3 +7,12 @@
 [submodule "Eis.Pallet.Api"]
 	path = Eis.Pallet.Api
 	url = ./Eis.Pallet.Api/
+[submodule "Judah.DevOps.K8s"]
+	path = Judah.DevOps.K8s
+	url = ./Judah.DevOps.K8s/
+[submodule "Judah.Identity.Api"]
+	path = Judah.Identity.Api
+	url = ./Judah.Identity.Api/
+[submodule "Judah.Pallet.Api"]
+	path = Judah.Pallet.Api
+	url = ./Judah.Pallet.Api/
