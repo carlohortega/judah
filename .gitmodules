@@ -1,0 +1,9 @@
+[submodule "Eis.DevOps.K8s"]
+	path = Eis.DevOps.K8s
+	url = ./Eis.DevOps.K8s/
+[submodule "Eis.Identity.Api"]
+	path = Eis.Identity.Api
+	url = ./Eis.Identity.Api/
+[submodule "Eis.Pallet.Api"]
+	path = Eis.Pallet.Api
+	url = ./Eis.Pallet.Api/
